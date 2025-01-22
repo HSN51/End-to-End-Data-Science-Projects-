@@ -13,9 +13,7 @@ This repository contains an end-to-end data science project focused on predictin
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [License](#license)
+
 
 ---
 
